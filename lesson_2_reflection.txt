@@ -1,0 +1,22 @@
+what is branch in git's working evironment?
+==========================================
+  "i just learned that 'git branch' is very nice and helpful
+   just by running 'git branch' shows the current branch, and
+   'git branch @@@' that will create new branch with a name @@
+         running 'git branch checkout @@' sets @@ as current branch "
+
+
+still on branching:
+===============================
+"branching does not ends only on lineer format, a branch could be 
+inaccessible if i branch out of it and went to another and add more
+commit in there, so to say, the scope of a branch is limited to it's 
+- and may not be accessible outside of it. i note that new branch could 
+be made simply by 'git branch -b new_branchname"
+
+a try on merge:
+==================
+it's not easy as expected, because i saw cbucky merging as it's easy.
+after trying to merge the two branches i found and error which cbucky
+have never talked about. the says there's a conflict which i have to 
+resolve before proceeding with merging, i think i have give it a break.
